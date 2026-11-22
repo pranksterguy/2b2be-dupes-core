@@ -1,0 +1,6 @@
+name: 2b2be-dupes-core
+main: me.anarchy.coredupes.AnarchyCoreDupesV1
+version: 1.0.0
+api: ["1.0.0"]
+author: AnarchyAdmin
+description: Minecart Packet-Move Corrupt Chest, Inventory Slot, and Player Data dupes
